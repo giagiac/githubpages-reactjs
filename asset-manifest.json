@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/giagiac/githubpages-reactjs.git/static/css/main.ae71d505.css",
-    "main.js": "/giagiac/githubpages-reactjs.git/static/js/main.c587b356.js",
-    "static/js/787.5c507d17.chunk.js": "/giagiac/githubpages-reactjs.git/static/js/787.5c507d17.chunk.js",
-    "static/media/logo.svg": "/giagiac/githubpages-reactjs.git/static/media/logo.b2e5a01e505f739f1484b881277d5186.svg",
-    "index.html": "/giagiac/githubpages-reactjs.git/index.html",
-    "main.ae71d505.css.map": "/giagiac/githubpages-reactjs.git/static/css/main.ae71d505.css.map",
-    "main.c587b356.js.map": "/giagiac/githubpages-reactjs.git/static/js/main.c587b356.js.map",
-    "787.5c507d17.chunk.js.map": "/giagiac/githubpages-reactjs.git/static/js/787.5c507d17.chunk.js.map"
+    "main.css": "/githubpages-reactjs/static/css/main.ae71d505.css",
+    "main.js": "/githubpages-reactjs/static/js/main.bb00e853.js",
+    "static/js/787.5c507d17.chunk.js": "/githubpages-reactjs/static/js/787.5c507d17.chunk.js",
+    "static/media/logo.svg": "/githubpages-reactjs/static/media/logo.b2e5a01e505f739f1484b881277d5186.svg",
+    "index.html": "/githubpages-reactjs/index.html",
+    "main.ae71d505.css.map": "/githubpages-reactjs/static/css/main.ae71d505.css.map",
+    "main.bb00e853.js.map": "/githubpages-reactjs/static/js/main.bb00e853.js.map",
+    "787.5c507d17.chunk.js.map": "/githubpages-reactjs/static/js/787.5c507d17.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ae71d505.css",
-    "static/js/main.c587b356.js"
+    "static/js/main.bb00e853.js"
   ]
 }
